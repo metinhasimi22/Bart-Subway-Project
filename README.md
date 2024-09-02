@@ -1,7 +1,8 @@
 # Bart-Subway-Project
 Bay Area Rapid Transit, ABD'de San Francisco Körfez Bölgesi'ne hizmet veren bir toplu taşıma ağıdır.
 
-
+### Datanın Devamını burdan bakabilrisiniz 
+https://www.kaggle.com/code/yagli18/bart-project/data
 <br>
 <br>
 
