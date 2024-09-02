@@ -4,4 +4,5 @@ Bay Area Rapid Transit, ABD'de San Francisco Körfez Bölgesi'ne hizmet veren bi
 
 <br>
 <br>
-![bart](https://github.com/user-attachments/assets/2787fc1c-4794-4408-9ec3-f43a2cd32b04)
+
+![bart](https://github.com/user-attachments/assets/25e2b997-6bd6-46a9-8fcd-cfcb91c1e0b7)
